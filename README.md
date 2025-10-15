@@ -34,13 +34,14 @@ I love crafting pixel-perfect layouts from Figma, writing clean reusable code, a
 
 ###
 
-<!-- GitHub Stats -->
-<div align="center">
-  <a href="https://github.com/abdizahir" target="_blank" rel="noopener noreferrer">
-    <img src="https://github-readme-stats.vercel.app/api?username=abdizahir&show_icons=true&theme=dracula&hide_border=true&include_all_commits=true&count_private=true" height="180" />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abdizahir&layout=compact&theme=dracula&hide_border=true&langs_count=10" height="180" />
-  </a>
-</div>
+<p>
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=abdizahir&show_icons=true&locale=en&layout=compact&theme=dark" alt="abdizahir" />
+</p>
+
+<p>
+  <img align="left" src="https://github-readme-stats.vercel.app/api?username=abdizahir&show_icons=true&locale=en&theme=dark" alt="abdizahir" />
+</p>
+
 
 ###
 
