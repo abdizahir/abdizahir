@@ -11,7 +11,7 @@
 
 <h1>Hi 👋, I'm Abdala</h1>
 <h4>A passionate frontend developer from Ethiopia who enjoys turning ideas and designs into clean, responsive, and engaging web experiences.  
-I focus on building fast, modern, and user-friendly interfaces using **React.js**, **Tailwind CSS**, and **JavaScript (ES6+)**.  
+I focus on building fast, modern, and user-friendly interfaces.  
 I love crafting pixel-perfect layouts from Figma, writing clean reusable code, and making sure every interface feels intuitive and accessible. I’m also comfortable with Git, debugging tricky issues, and collaborating with teams to deliver high-quality projects.</h4>
 
 - 🔭 I’m currently working on [frontendmentor](https://www.frontendmentor.io/profile/abdizahir)
