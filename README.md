@@ -14,7 +14,7 @@
 I focus on building fast, modern, and user-friendly interfaces.  
 I love crafting pixel-perfect layouts from Figma, writing clean reusable code, and making sure every interface feels intuitive and accessible. I’m also comfortable with Git, debugging tricky issues, and collaborating with teams to deliver high-quality projects.</h4>
 
-- 🔭 I’m currently working on [frontendmentor](https://www.frontendmentor.io/profile/abdizahir)
+- 🔭 I’m currently working on [Frontend Mentor](https://www.frontendmentor.io/profile/abdizahir) projects to improve my frontend development skills.
 
 - 🌱 I’m currently learning **Backend**
 
